@@ -1,12 +1,15 @@
-- 👋 Hello!, I’m Amrit
+👋 Hello! I'm Amrit Sohi
 
-- 👀 I’m interested in Full Stack Web Development, Artificial Intelligence & Machine Learning.
-- 📚 I'm currently pursuing Post-Graduate Diploma in Computer Software and Database Development
-- 🌱 I’m currently learning Application Development in the 3 platforms, Web, Computer and Mobile.
-- 💞️ I’m looking to collaborate on Full Stack web projects and even better if they are based on ML & AI.
-- 📫 How to reach me -> email :  1amritsinghsohi@gmail.com    ||    LinkedIn : https://www.linkedin.com/in/amritsinghsohi/
+👀 I’m a dynamic Software Engineer with over four years of experience in Full Stack Web Development, focusing on technologies like C#, .NET, SQL, Java, JavaScript, TypeScript, React, and Azure. I have a strong interest in Artificial Intelligence & Machine Learning.
 
-<!---
-1amrit1/1amrit1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 I hold a Post-Graduate Diploma in Computer Software and Database Development from Lambton College and a Bachelor of Technology in Computer Science & Engineering.
+
+🌱 I’m currently enhancing my skills in application development across web, computer, and mobile platforms, with a keen interest in exploring and implementing AI and ML solutions.
+
+💞️ I’m looking to collaborate on Full Stack web projects, especially those involving AI & ML. I enjoy solving complex problems, optimizing systems, and contributing to innovative solutions.
+
+📫 How to reach me:
+
+Email: 1amritsinghsohi@gmail.com
+LinkedIn: Amrit Sohi
+GitHub: 1amrit1
